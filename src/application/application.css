@@ -1,0 +1,16 @@
+.myButton{
+	-fx-background-color:  orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.myButton:hover {
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+}
+
+.imagenFondo {
+	-fx-background-image: url("../images/tiburon.jpg");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: cover;
+}
